@@ -27,6 +27,7 @@ export default function Footer() {
               target="_blank"
               className="text-gray-400 hover:text-black transition-colors duration-300 font-funnel-display"
             >
+              {/* hello */}
               Website
             </a>
             <a
