@@ -24,10 +24,10 @@ export default function Home() {
             {/* Main Content */}
             <div className="space-y-4 md:space-y-6 mb-10 md:mb-16">
               <h1 className="font-funnel-display text-3xl md:text-5xl lg:text-7xl font-bold text-black max-w-4xl">
-                We are FIL Builders
+                Welcome to CloudArk
               </h1>
               <p className="font-funnel-display text-lg md:text-xl text-gray-500">
-                Cross the Filecoin chasm with us.
+                An “ark” to keep your data safe
               </p>
             </div>
           </div>
@@ -38,13 +38,13 @@ export default function Home() {
           <div className="flex flex-col md:flex-row items-center justify-between border-t border-gray-200 pt-6 md:pt-8 gap-4 md:gap-0">
             <div className="flex items-center gap-2">
               <span className="ffont-funnel-display text-gray-900">
-                Welcome to Filecoin Starter Kit
+                We are The Ones To Keep Your Memories safe Forever
               </span>
             </div>
             <div className="flex flex-col md:flex-row gap-2 md:gap-0 w-full md:w-auto">
               <Link href="/store" className="w-full md:w-[200px]">
                 <div className="w-full md:w-[200px] py-3 text-gray-900 border border-gray-200 hover:border-gray-400 transition-colors text-center font-funnel-display">
-                  Store Data
+                  Store Memories
                 </div>
               </Link>
             </div>

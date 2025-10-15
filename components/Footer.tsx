@@ -16,31 +16,31 @@ export default function Footer() {
           </div>
           <div className="flex space-x-6">
             <a
-              href="https://docs.filecoin.io/"
+              href="https://cloudark.io/about"
               target="_blank"
               className="text-gray-400 hover:text-black transition-colors duration-300 font-funnel-display"
             >
               Documentation
             </a>
             <a
-              href="https://filecoin.io/"
+              href="https://cloudark.io"
               target="_blank"
               className="text-gray-400 hover:text-black transition-colors duration-300 font-funnel-display"
             >
               Website
             </a>
             <a
-              href="https://x.com/FILBuilders"
+              href="https://www.linkedin.com/company/cloudark"
               target="_blank"
               className="text-gray-400 hover:text-black transition-colors duration-300 font-funnel-display"
             >
-              Twitter
+              Linkedin
             </a>
           </div>
         </div>
         <div className="mt-6 md:mt-8 pt-6 md:pt-8 border-t border-gray-800 text-center">
           <p className="font-funnel-display text-gray-400">
-            Built with ❤️ by Germina Labs
+            Built with ❤️ by CloudArk Committee
           </p>
         </div>
       </div>
